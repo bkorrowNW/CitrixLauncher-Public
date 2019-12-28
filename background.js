@@ -13,7 +13,7 @@ chrome.webNavigation.onCompleted.addListener(function() {
             else console.log("App launched");
             });                      
     }, 10000);    
-  }, {url: [{urlMatches : 'http://mywelcome.northwell.edu/'}]});
+  }, {url: [{urlMatches : 'http://launcher.test.com/'}]});
 
 
 
