@@ -1,2 +1,4 @@
 # CitrixLauncher-Public
-Launches Workspace App.  Can be used like Windows startup
+By: Brian Korrow
+
+Uses a trigger page set as the chrome browser home page to launch Workspace App.  Can be used like Windows startup. Waits 10-15 seconds for Workspace to install in managed guest session environments. 
