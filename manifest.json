@@ -1,6 +1,6 @@
 {
     "name": "Citrix Launcher",
-    "version": "2.2.6",
+    "version": "2.3.1",
     "manifest_version": 2,
     "description": "Launcher of the Citrix application",
        "background": {
@@ -8,8 +8,7 @@
     "persistent": false
   },
     "permissions": [
-        "management",
-        "webNavigation"
+        "management"
     ],
     "browser_action": {
     }
